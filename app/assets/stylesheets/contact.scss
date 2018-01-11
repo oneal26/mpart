@@ -1,0 +1,131 @@
+// Place all the styles related to the Contact controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+
+
+
+.bg{
+background-image: image-url('smile.jpg');
+background-repeat: no-repeat;
+background-size: 100%;
+height: 48em;
+width: 100%;
+margin-bottom: 0 !important;
+}
+
+
+.bg2{
+	padding:0;
+	margin: 0;
+	background-color:#171d26;
+	height:100%;
+	width:100%;
+}
+
+
+
+.navbar-fixed-bottom, .footer{
+	background-color:#171d26 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.cont{
+	height:100em !important;
+}
+
+.contactboxl{
+
+	margin-right: 0px;
+	margin-left: 0px;
+	height:7em;
+	width:90%;
+	border-radius: 1%;
+	text-align: left;
+	padding-top: 6em;
+	color: white;
+}
+
+.big{
+	position: fixed;
+	font-size:3.5em;
+}
+
+.contactboxr{
+	background-color: grey;
+	opacity: 0.5;
+	margin-top: 5.5em;
+	height:10em;
+	width:10em;
+	border-radius:4%;
+	float: right;
+}
+
+.contactboxb{
+	align:left;
+	width:90%;
+	background-color: grey;
+	margin-top: 5em;
+	height:8em;
+	position: absolute;
+	bottom: 0;
+
+}
+
+.nofade{
+	opacity: 1.0;
+	align:left;
+	float:left;
+}
+
+.nofade a{
+	color:white;
+}
+
+
+.icon{
+	height:3.5em;
+	width:3.5em;
+}
+
+p{
+	color:#171d26;
+}
+
+
+
+
+.med{
+	font-size:3em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
